@@ -1,5 +1,5 @@
 ## E ai QA, Bugou? 
-### Meu chamo Jonatas e esse é o meu perfil do GitHub 👋
+### Me chamo Jonatas e esse é o meu perfil do GitHub 👋
 
  <div>
   <a href="https://github.com/jonatasmfaria">
