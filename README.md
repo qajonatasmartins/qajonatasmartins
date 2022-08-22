@@ -1,12 +1,9 @@
-## E ai QA, Bugou? 
-### Me chamo Jonatas e esse é o meu perfil do GitHub 👋
+## E ai QA, Bugou?
 
- <div>
-  <a href="https://github.com/jonatasmfaria">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonatasmfaria&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasmfaria&layout=compact&langs_count=7&theme=dark"/>
+<div align="center" width="50">
+<a><img src="https://media0.giphy.com/media/7jpBG4WQHBYtQE3F5v/giphy.gif"></a> 
 </div>
-  
+
  ### Redes sociais 
 <div> 
   <a href="https://www.youtube.com/channel/UCUCN9XtKBhHfwk6JMcPwkqQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
