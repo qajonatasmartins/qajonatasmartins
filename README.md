@@ -4,51 +4,62 @@
 <a><img src="https://media0.giphy.com/media/7jpBG4WQHBYtQE3F5v/giphy.gif"></a> 
 </div>
 
- ### Redes sociais 
-<div> 
-  <a href="https://www.youtube.com/channel/UCUCN9XtKBhHfwk6JMcPwkqQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/eaiqabugou/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/jonatasmfaria/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eaiqabugou@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonatasmfaria/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://www.tiktok.com/@eaiqabugou?lang=pt-BR" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
+### aboutMe.js
 
-### 👩‍💻 Languages 🔝
+```javascript
+const jonatasmfaria = {
+    pronouns: 'he',
+    code: ['Javascript', 'TypeScript', 'Java', 'Python', 'C#', 'Ruby', 'Markdown', 'Pascal'],
+    database: ['MySql', 'Postgress', 'MicrosfotSQLServer', 'Oracle'],
+    askMeAbout: ['tech', 'geek', 'coffee', 'anime', 'study'],
+    outhers: ['git', 'npm', 'Bitrise', 'test case', 'kanoah', 'docusaurus', 'mkdocs', 'bdd', 'gherkin', 'cucumber'],
+    technologies: {
+        frontEndTest: {
+            web: ['Selenium Webdriver', 'Capybara', 'WebdriverIO', 'Robot Framework', 'TestProject', 'Playwright']
+            visualRegression: ['WebdriverIO'],
+            desktop: ['WebdriverIO', 'TestFlow 2.0']
+        },
+        backEnd: {
+            js: ['node.js']
+            api: ['Playwright', 'Postman', 'Pactum.js', 'Rest-assured', 'mocha', 'Robot Framework', 'http-party'],
+            performance: ['k6', 'HP Performance Testing']
+        },
+        os: ['windows', 'linux', 'macOs'],
+        deviceFarm:['aws device farm', 'browserstack', 'applitools'],
+        clound: ['Aws', 'Azure'],
+        locatorStrategies:['xpath', 'css selector', 'id', 'ios class chain', 'uiselector', 'ios predicate string'],
+        ides: ['IntelliJ', 'vscode', 'netbeans', 'eclipse', 'atom', 'microsoft visual studio'],
+        cicd: ['jenkins', 'azure devops', 'github actions'],
+        managementTools: ['trello', 'azure', 'jira']
+        agileMethodologies: ['Kanban', 'Scrum', 'waterfall']
+    }
+};
+```
 
-  <img align="center" alt="TypeScript" height="30" width="90" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="JavaScript" height="30" width="90" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="C#" height="30" width="90" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="Java" height="30" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="'Ruby" height="30" width="90" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white">
-  <img align="center" alt="Python" height="30" width="90" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgree">
-  <img align="center" alt="HTML" height="30" width="90" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{jonatasmfaria}/count.svg)
+
+<p align="center">
+	<a href="https://github.com/jonatasmfaria"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/jonatasmfaria/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.youtube.com/channel/UCD2fgVj5Yt8roBtWHXDLykg"><img alt="youtube" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/344/youtube.png"/></a>
+	<a href="https://www.instagram.com/qajonatasmartins/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+</p>
   
-### ⚡ Database 🔝
-  
-  <img align="center" alt="MySql" height="30" width="90" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Postgress" height="30" width="90" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img align="center" alt="MicrosfotSQLServer" height="30" width="90" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-  <img align="center" alt="Oracle" height="30" width="90" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black">
-  
-### 🚀 Frameworks 🔝
- 
-  [![tested with webdriver.io](https://img.shields.io/badge/tested%20with-webdriver.io-%23ea5906)](https://webdriver.io/)
-  <img align="center" alt="Node" height="30" width="90" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img align="center" alt="NPM" height="30" width="90" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-  <img align="center" alt="Markdown" height="30" width="90" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img align="center" alt="Microsoft" height="30" width="90" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=whit">
-  <img align="center" alt="GIT" height="30" width="90" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img align="center" alt="Postman" height="30" width="90" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img align="center" alt="Selenium WebDriver" height="30" width="90" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
-  <img align="center" alt="Powershell" height="30" width="90" src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white">
-  
-### ⏱️ Workflow Platforms 🔝
-  
-  <img align="center" alt="Jenkins" height="30" width="90" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  
-### ☁ Cloud 🔝
-  <img align="center" alt="Aws" height="30" width="90" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
-  <img align="center" alt="Microsoft Azzure" height="30" width="90" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
-  
+ # 📈 Statistics 📈
+![](https://komarev.com/ghpvc/?username=jonatasmfaria&color=447ff7&label=Visitor+count)
+
+<p align="center">
+  <a href="https://github.com/jonatasmfaria">
+    <img src="https://github-readme-stats.vercel.app/api?username=jonatasmfaria&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=jonatasmfaria&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=jonatasmfaria&theme=react-dark" />
+  </a>
+</p>
+
+
+<p  align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
+<br>
 
 </div>
