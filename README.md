@@ -30,7 +30,7 @@ const jonatasmfaria = {
         locatorStrategies:['xpath', 'css selector', 'id', 'ios class chain', 'uiselector', 'ios predicate string'],
         ides: ['IntelliJ', 'vscode', 'netbeans', 'eclipse', 'atom', 'microsoft visual studio'],
         cicd: ['jenkins', 'azure devops', 'github actions'],
-        managementTools: ['trello', 'azure', 'jira']
+        managementTools: ['trello', 'azure', 'jira'],
         agileMethodologies: ['Kanban', 'Scrum', 'waterfall']
     }
 };
