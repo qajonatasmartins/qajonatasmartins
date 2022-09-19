@@ -4,6 +4,10 @@
 <a><img src="https://media0.giphy.com/media/7jpBG4WQHBYtQE3F5v/giphy.gif"></a> 
 </div>
 
+## O que estou ouvindo
+
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=12147251798&unique={true|1|on|yes})
+
 ### aboutMe.js
 
 ```javascript
@@ -56,7 +60,6 @@ const jonatasmfaria = {
     <img src="https://activity-graph.herokuapp.com/graph?username=jonatasmfaria&theme=react-dark" />
   </a>
 </p>
-
 
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
