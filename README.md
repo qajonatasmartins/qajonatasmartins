@@ -6,7 +6,7 @@
 
 ## O que estou ouvindo
 
-![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=12147251798&unique={true|1|on|yes})
+![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=12147251798)
 
 ### aboutMe.js
 
