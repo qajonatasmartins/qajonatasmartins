@@ -14,7 +14,7 @@
 const jonatasmfaria = {
     pronouns: 'he',
     code: ['Javascript', 'TypeScript', 'Java', 'Python', 'C#', 'Ruby', 'Markdown', 'Pascal'],
-    database: ['MySql', 'Postgress', 'MicrosfotSQLServer', 'Oracle'],
+    database: ['MySql', 'Postgress', 'Microsoft SQL Server', 'Oracle'],
     askMeAbout: ['tech', 'geek', 'coffee', 'anime', 'study'],
     outhers: ['git', 'npm', 'Bitrise', 'test case', 'kanoah', 'docusaurus', 'mkdocs', 'bdd', 'gherkin', 'cucumber'],
     technologies: {
