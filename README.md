@@ -4,6 +4,12 @@
 <a><img src="https://media0.giphy.com/media/7jpBG4WQHBYtQE3F5v/giphy.gif"></a> 
 </div>
 
+<div align="center">
+  <a href="https://github.com/qajonatasmartins">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qajonatasmartins&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qajonatasmartins&layout=compact&langs_count=7&theme=dark"/>
+</div>
+
 ## O que estou ouvindo
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=12147251798)
