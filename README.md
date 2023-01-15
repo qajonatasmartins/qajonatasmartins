@@ -25,7 +25,7 @@ const jonatasmfaria = {
     outhers: ['git', 'npm', 'Bitrise', 'test case', 'kanoah', 'docusaurus', 'mkdocs', 'bdd', 'gherkin', 'cucumber'],
     technologies: {
         frontEndTest: {
-            web: ['Selenium Webdriver', 'Capybara', 'WebdriverIO', 'Robot Framework', 'TestProject', 'Playwright'],
+            web: ['Selenium Webdriver', 'maestro', 'Capybara', 'WebdriverIO', 'Robot Framework', 'TestProject', 'Playwright'],
             visualRegression: ['WebdriverIO'],
             desktop: ['WebdriverIO', 'TestFlow 2.0']
         },
@@ -37,6 +37,7 @@ const jonatasmfaria = {
         os: ['windows', 'linux', 'macOs'],
         deviceFarm:['aws device farm', 'browserstack', 'applitools'],
         clound: ['Aws', 'Azure'],
+	virtualization: ['Docker'],
         locatorStrategies:['xpath', 'css selector', 'id', 'ios class chain', 'uiselector', 'ios predicate string'],
         ides: ['IntelliJ', 'vscode', 'netbeans', 'eclipse', 'atom', 'microsoft visual studio'],
         cicd: ['jenkins', 'azure devops', 'github actions'],
