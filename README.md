@@ -10,6 +10,11 @@
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qajonatasmartins&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=qajonatasmartins&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qajonatasmartins&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
 ## O que estou ouvindo
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=12147251798)
@@ -18,36 +23,91 @@
 
 ```javascript
 const qajonatasmartins = {
-    pronouns: 'he',
-    code: ['Javascript', 'TypeScript', 'Java', 'Python', 'C#', 'Ruby', 'Markdown', 'Pascal'],
-    database: ['MySql', 'Postgress', 'Microsoft SQL Server', 'Oracle'],
-    askMeAbout: ['tech', 'geek', 'coffee', 'anime', 'study'],
-    outhers: ['git', 'npm', 'Bitrise', 'test case', 'kanoah', 'docusaurus', 'mkdocs', 'bdd', 'gherkin', 'cucumber'],
-    technologies: {
-        frontEndTest: {
-            web: ['Selenium Webdriver', 'maestro', 'Capybara', 'testcafe', 'WebdriverIO','nightwatchjs', 'Robot Framework', 'TestProject', 'Playwright'],
-            visualRegression: ['WebdriverIO'],
-            desktop: ['WebdriverIO', 'TestFlow 2.0']
-        },
-        backEnd: {
-            js: ['node.js'],
-            api: ['Playwright', 'Postman', 'Pactum.js', 'testcafe','nightwatchjs', 'Rest-assured', 'mocha', 'Robot Framework', 'http-party'],
-            performance: ['k6', 'HP Performance Testing']
-        },
-        os: ['windows', 'linux', 'macOs'],
-        deviceFarm:['aws device farm', 'browserstack', 'applitools'],
-        clound: ['Aws', 'Azure'],
-	virtualization: ['Docker'],
-        locatorStrategies:['xpath', 'css selector', 'id', 'ios class chain', 'uiselector', 'ios predicate string'],
-        ides: ['IntelliJ', 'vscode', 'netbeans', 'eclipse', 'atom', 'microsoft visual studio'],
-        cicd: ['jenkins', 'azure devops', 'github actions', 'gitlab'],
-        managementTools: ['trello', 'azure', 'jira', 'clickup'],
-        agileMethodologies: ['Kanban', 'Scrum', 'waterfall']
-    }
+  pronouns: "he",
+  code: [
+    "Javascript",
+    "TypeScript",
+    "Java",
+    "Python",
+    "C#",
+    "Ruby",
+    "Markdown",
+    "Pascal",
+  ],
+  database: ["MySql", "Postgress", "Microsoft SQL Server", "Oracle"],
+  askMeAbout: ["tech", "geek", "coffee", "anime", "study"],
+  outhers: [
+    "git",
+    "npm",
+    "Bitrise",
+    "test case",
+    "kanoah",
+    "docusaurus",
+    "mkdocs",
+    "bdd",
+    "gherkin",
+    "cucumber",
+  ],
+  technologies: {
+    frontEndTest: {
+      web: [
+        "Selenium Webdriver",
+        "maestro",
+        "Capybara",
+        "testcafe",
+        "WebdriverIO",
+        "nightwatchjs",
+        "Robot Framework",
+        "TestProject",
+        "Playwright",
+      ],
+      visualRegression: ["WebdriverIO"],
+      desktop: ["WebdriverIO", "TestFlow 2.0"],
+    },
+    backEnd: {
+      js: ["node.js"],
+      api: [
+        "Playwright",
+        "Postman",
+        "Pactum.js",
+        "testcafe",
+        "nightwatchjs",
+        "Rest-assured",
+        "mocha",
+        "Robot Framework",
+        "http-party",
+      ],
+      performance: ["k6", "HP Performance Testing"],
+    },
+    os: ["windows", "linux", "macOs"],
+    deviceFarm: ["aws device farm", "browserstack", "applitools"],
+    clound: ["Aws", "Azure"],
+    virtualization: ["Docker"],
+    locatorStrategies: [
+      "xpath",
+      "css selector",
+      "id",
+      "ios class chain",
+      "uiselector",
+      "ios predicate string",
+    ],
+    ides: [
+      "IntelliJ",
+      "vscode",
+      "netbeans",
+      "eclipse",
+      "atom",
+      "microsoft visual studio",
+    ],
+    cicd: ["jenkins", "azure devops", "github actions", "gitlab"],
+    managementTools: ["trello", "azure", "jira", "clickup"],
+    agileMethodologies: ["Kanban", "Scrum", "waterfall"],
+  },
 };
 ```
 
 #### Profile views counter
+
 ![Visitor Count](https://profile-counter.glitch.me/{jonatasmfaria}/count.svg)
 
 <p align="center">
@@ -59,4 +119,3 @@ const qajonatasmartins = {
   
  # 📈 Statistics 📈
 ![](https://komarev.com/ghpvc/?username=jonatasmfaria&color=447ff7&label=Visitor+count)
-
